@@ -5,7 +5,10 @@
       "Bash(mkdir:*)",
       "Bash(find:*)",
       "Bash(rm:*)",
-      "Bash(mv:*)"
+      "Bash(mv:*)",
+      "Bash(dir:*)",
+      "Bash(ls:*)",
+      "Bash(cp:*)"
     ],
     "deny": []
   }
