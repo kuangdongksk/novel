@@ -9,7 +9,9 @@
       "Bash(dir:*)",
       "Bash(ls:*)",
       "Bash(cp:*)",
-      "Bash(wc:*)"
+      "Bash(wc:*)",
+      "Bash(for:*)",
+      "Bash(done)"
     ],
     "deny": []
   }
